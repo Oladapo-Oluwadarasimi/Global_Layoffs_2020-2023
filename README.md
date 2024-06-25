@@ -36,6 +36,7 @@ There were many cleaning stages that were taken in order to get the layoffs data
 - Numerical data, including `total_laid_off` and `funds_raised_millions`, were inspected for consistency and adjusted as needed.
 
 ### Snapshots Cleaning Data of in MySQL
+![MySQL Workbench 6_25_2024 7_49_32 PM](https://github.com/Oladapo-Oluwadarasimi/World_Layoffs_2020-2023/assets/173706258/4ff3ae60-747a-478a-a84d-ee3c5743bf9f)
 
 ## Data Exploration
 
